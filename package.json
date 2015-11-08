@@ -1,0 +1,26 @@
+{
+  "name": "jfe",
+  "version": "0.0.0",
+  "description": "Programmable Timeline Journal for Engineers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nullclick@github.com/nullclick/jfe.git"
+  },
+  "keywords": [
+    "timer",
+    "alarm",
+    "tracking",
+    "notebook",
+    "journal"
+  ],
+  "author": "\"Andy Brown\" <andyb@formulatoast.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/nullclick/jfe/issues"
+  },
+  "homepage": "https://github.com/nullclick/jfe#readme"
+}
